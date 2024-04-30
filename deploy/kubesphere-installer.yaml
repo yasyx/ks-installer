@@ -293,7 +293,7 @@ spec:
       containers:
       - name: installer
         image: kubesphere/ks-installer:v3.4.1
-        imagePullPolicy: "Always"
+        imagePullPolicy: "IfNotPresent"
         resources:
           limits:
             cpu: "1"
