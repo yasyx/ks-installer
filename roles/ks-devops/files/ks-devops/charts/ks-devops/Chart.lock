@@ -1,0 +1,9 @@
+dependencies:
+- name: jenkins
+  repository: ""
+  version: 0.19.6
+- name: s2i
+  repository: ""
+  version: 1.16.3
+digest: sha256:e51b08c187657ee0b6e28255487a028c98f288fa21ac3bfd78e33a09e9ea61c7
+generated: "2024-02-20T07:35:05.597745074Z"
